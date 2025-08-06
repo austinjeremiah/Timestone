@@ -87,8 +87,8 @@ timestone/
 ├── Etherlink/               # Smart contracts
 │   ├── contracts/
 │   │   ├── TimeOracleFileLocker.sol  # Main contract
-│   │   ├── TimeCapsule.sol           # Capsule management
-│   │   └── TimeOracle.sol            # Oracle interface
+│   │      
+│   │              
 │   ├── test/                # Contract tests
 │   ├── scripts/             # Deployment scripts
 │   └── hardhat.config.ts    # Hardhat configuration
